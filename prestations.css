@@ -1,0 +1,125 @@
+body{
+    font-family: 'source code pro', calibri, sans-serif;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #675494;
+}
+#en{
+    font-size: 30px;
+    color: #675494;
+    background-color: #fff;
+    border: red 2px solid;
+}
+.contenu{
+    display: flex;
+    
+}
+.logo{
+    display: flex;
+    width: 70%;
+    padding: 20px;
+}
+.p1{
+    font-size: 25px;
+}
+.contacts{
+    font-size: 16px;
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 40px;
+}
+.img{
+    height: 100px;
+    padding-top: 25px;
+}
+li {
+    list-style-type: none;
+    display: block;
+    float: right;
+    border:#fff 2px solid;
+    background-color: red;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+a{
+    font-size: 25px;
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+    
+}
+li:hover{
+    border:red 2px solid;
+    background-color:rgb(246, 250, 244);
+}
+a:hover{
+    color: rgb(20, 3, 3);
+
+}
+.form{
+   margin-top: 70px;
+   margin-bottom: 30px;
+}
+.pied{
+    font-size: 16px;
+    color: #675494;
+    background-color: #fff;
+    text-align: center;
+    padding-top: 30px;
+}
+.ro{
+    font-size: 14px;
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 580px;
+    height: 20px;
+    padding-left: 20px;
+}
+.envoi{
+    float: right;
+    margin-right: 20px;
+    color: #fff;
+    background-color: red;
+}
+.pre{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 100px;
+    text-align: center;
+    margin-right: 100px;
+}
+.l1{
+    display: flex;
+}
+.l1a{
+    width: 50%;
+    height: 300px;
+    border: red 2px solid;
+    margin-left: 100px;
+}
+.l1b{
+    width: 50%;
+    height: 300px;
+    border: red 2px solid;
+    margin-left: 100px;
+}
+.l2{
+    display: flex;
+    padding-top: 30px;
+}
+.l2a{
+    width: 50%;
+    height: 300px;
+    border: red 2px solid;
+    margin-left: 100px;
+}
+.l2b{
+    width: 50%;
+    height: 300px;
+    border: red 2px solid;
+    margin-left: 100px;
+}
+.b{
+    color: red;
+}
